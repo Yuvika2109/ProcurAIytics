@@ -1,0 +1,11 @@
+streamlit
+mysql.connector
+csv
+pandas
+plotly.express
+streamlit_lottie 
+json
+dotenv 
+os
+google.generativeai 
+re
