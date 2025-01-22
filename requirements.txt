@@ -1,9 +1,7 @@
-streamlit
-mysql.connector
-pandas
-plotly.express
-streamlit_lottie 
-dotenv 
-os
-google.generativeai 
-re
+streamlit>=1.25.0
+mysql-connector-python>=8.0.0
+pandas>=2.2.3
+plotly>=5.15.0
+streamlit-lottie>=0.0.5
+python-dotenv>=1.0.0
+google-generativeai>=0.4.0
