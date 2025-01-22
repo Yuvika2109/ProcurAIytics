@@ -3,7 +3,6 @@ mysql.connector
 pandas
 plotly.express
 streamlit_lottie 
-json
 dotenv 
 os
 google.generativeai 
