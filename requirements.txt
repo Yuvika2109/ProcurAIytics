@@ -1,6 +1,5 @@
 streamlit
 mysql.connector
-csv
 pandas
 plotly.express
 streamlit_lottie 
